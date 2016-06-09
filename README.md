@@ -1,2 +1,5 @@
 # alpine-base
-alpina base image with S6
+alpine base image with S6
+
+
+ideas from: https://github.com/smebberson/docker-alpine/tree/master/alpine-base
